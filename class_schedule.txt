@@ -1,17 +1,13 @@
 This is the file in which you should enter your class schedule:
 
-You can follow this format:
-
-Name: Roger Jaffe
-Per 1: Digital Electronics, Rm B12
-Per 2: AP Comp Sci, Rm B12
-Per 3: Prep
-Per 4: AP Comp Sci, Rm B12
-Per 5: Digital Electronics, Rm B12
-Per 6: AP Comp Sci, Rm B12
-
 Team member 1
-
+Name: Olivya Soth
+Per 1: AP Art HST, Rm 113
+Per 2: AP Comp Sci, Rm B12
+Per 3: ERWC, Rm 404
+Per 4: AP Stats, Rm B10
+Per 5: Hnrs Spanish 7-8, Rm T 
+Per 6: Poli Sci, Rm 102 
 
 
 Team member 2
