@@ -1,0 +1,34 @@
+This is the file in which you should enter your class schedule:
+
+You can follow this format:
+
+Name: Roger Jaffe
+Per 1: Digital Electronics, Rm B12
+Per 2: AP Comp Sci, Rm B12
+Per 3: Prep
+Per 4: AP Comp Sci, Rm B12
+Per 5: Digital Electronics, Rm B12
+Per 6: AP Comp Sci, Rm B12
+
+Team member 1
+
+
+
+Team member 2
+Name: Eric Hus
+Per 1: ASGN TIME HOME, Rm: MainOff
+Per 2: CM SC A1 AP, Rm: B-13
+Per 3: ENGLGCP1AP, Rm: 125
+Per 4: FILM ARTS, Rm: 114
+Per 5: GOV&P:US AP, Rm: P
+Per 6: STATS 1 AP, Rm: B-10
+
+
+Team member 3
+
+
+
+Team member 4
+
+
+
